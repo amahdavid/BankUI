@@ -1,8 +1,6 @@
 
-const Billing = () => {
-  return (
-    <div>Billing</div>
-  )
-}
+const Billing = () => (
+    <div></div>
+)
 
 export default Billing
