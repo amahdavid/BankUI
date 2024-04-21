@@ -1,4 +1,19 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import {
+  people03,
+  facebook,
+  instagram,
+  linkedin,
+  twitter,
+  airbnb,
+  binance,
+  coinbase,
+  dropbox,
+  send,
+  shield,
+  star,
+  omniman,
+  tonystark,
+} from "../assets";
 
 export const navLinks = [
   {
@@ -24,46 +39,40 @@ export const features = [
     id: "feature-1",
     icon: star,
     title: "Lorem",
-    content:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    content: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "Lorem",
-    content:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    content: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Lorem",
-    content:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    content: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
   },
 ];
 
 export const feedback = [
   {
     id: "feedback-1",
-    content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    name: "Omni Man",
     title: "Founder & Leader",
-    img: people01,
+    img: omniman,
   },
   {
     id: "feedback-2",
-    content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     name: "Steve Mark",
     title: "Founder & Leader",
-    img: people02,
+    img: tonystark,
   },
   {
     id: "feedback-3",
-    content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
